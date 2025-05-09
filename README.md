@@ -1,4 +1,4 @@
-# Parsing Table Generator and Expression Parser
+# CPSC433 : Compilers Final Project - Parsing Table Generator and Expression Parser
   
   This Java program implements a parsing table generator and expression parser based on a modified G9 grammar. It's designed to process simple arithmetic expressions with assignments    (e.g., `id=E`), performing lexical analysis (scanning) and parsing using a bottom-up parsing approach.
   
